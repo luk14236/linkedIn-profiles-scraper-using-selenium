@@ -9,7 +9,7 @@ This repository contains a Python script to scrape LinkedIn profiles using Selen
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `!pip install selenium` in your Python environment.
 3. Download the ChromeDriver executable and place it in the same directory as the script.
-4. Replace `[api-key]`, `[email-1]`, `[senha-1]`, `[email-2]`, and `[senha-2]` with your own API key, email addresses, and passwords in the script.
+4. Replace `[email-1]`, `[senha-1]`, `[email-2]`, and `[senha-2]` with your own API key, email addresses, and passwords in the script.
 5. Run the `Scraping - LinkedinProfiles.ipynb` script in a Python environment compatible with Jupyter Notebook.
 
 ## Dependencies
